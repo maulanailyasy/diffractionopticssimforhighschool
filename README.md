@@ -1,2 +1,3 @@
 # diffractionopticssimforhighschool
 This repository contains about simulating optical diffraction for an arbitrary aperture that can be adjusted freely. This simulation is used to introduce the characteristics of a wave to high school students.
+The simulation can be used as a puzzle game. The resulting diffraction patterns are the question and the true apertures are the answer. Further, the completion for each diffraction patterns give access to allow the student create a word in a scrabble boardgame . Thus, combining optics and english vocabulary activities at the same time. However, other type of activities can also be adjust.
